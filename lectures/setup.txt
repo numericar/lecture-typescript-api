@@ -6,3 +6,5 @@
 6. config file nodemon.json
 7. install package 
 8. install @types/package
+
+https://youtu.be/b8ZUb_Okxro?si=yvvdpIN_4_5sGhHZ&t=1086
