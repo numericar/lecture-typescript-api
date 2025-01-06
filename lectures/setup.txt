@@ -1,0 +1,8 @@
+1. setup npm using command npm init -y
+2. setup typescript using command npm install -D typescript 
+3. setup ts-node using command npm install -D ts-node
+4. setup nodemon using command npm i -D nodemon
+5. config file tsconfig.json
+6. config file nodemon.json
+7. install package 
+8. install @types/package
